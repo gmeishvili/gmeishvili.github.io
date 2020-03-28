@@ -11,9 +11,9 @@ title                    : "Givi Meishvili"
 title_separator          : "-"
 name                     : &name "Givi Meishvili"
 description              : &description "PhD student at the University of Bern"
-url                      : https://sjenni.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://gmeishvili.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "sjenni.github.io"
+repository               : "gmeishvili.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=de&user=AlA3q94AAAAJ"
-  email            : "simon.jenni@inf.unibe.ch"
+  email            : "givi.meishvili@inf.unibe.ch"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "sjenni"
+  github           : "gmeishvili"
   google_plus      :
   keybase          :
   instagram        : 
