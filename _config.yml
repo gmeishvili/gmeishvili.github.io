@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Simon Jenni"
+title                    : "Givi Meishvili"
 title_separator          : "-"
-name                     : &name "Simon Jenni"
+name                     : &name "Givi Meishvili"
 description              : &description "PhD student at the University of Bern"
 url                      : https://sjenni.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Simon Jenni"
+  name             : "Givi Meishvili"
   avatar           : "simonjenni.jpg"
   bio              : "PhD Student at the University of Bern"
   location         : "Bern, Switzerland"
