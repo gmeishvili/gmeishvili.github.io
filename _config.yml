@@ -86,9 +86,9 @@ author:
   location         : "Bern, Switzerland"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?hl=de&user=AlA3q94AAAAJ"
+  googlescholar    : # ""
   email            : "givi.meishvili@inf.unibe.ch"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Givi_Meishvili"
   uri              :
   bitbucket        :
   codepen          :
