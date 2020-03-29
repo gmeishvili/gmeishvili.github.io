@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year PhD student in the Computer Vision Group at the University of Bern, supervised by Prof. Dr. Paolo Favaro. I received my BSc degree in Computer Science in 2015 and my MSc degree in Computer Science in 2017, both at the University of Bern. My research interests are in Computer Vision, Machine Learning and Deep Learning.
+I am a third-year PhD student in the Computer Vision Group at the University of Bern, supervised by Prof. Dr. Paolo Favaro. I received my BSc degree in Computer Science from Tbilisi State University, Georgia in 2012 and my MSc degree in Computer Science from University of Geneva, Switzerland in 2017. My research interests are in Computer Vision, Machine Learning and Deep Learning.
