@@ -8,7 +8,7 @@ date: 2019-01-01
 location: "Bern, Switzerland"
 ---
 
-I am a teaching assistant in this introductory machine learning course. 
+I am a teaching assistant in this introductory Machine Learning course. 
 
 
 Course Description
