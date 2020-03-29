@@ -12,7 +12,6 @@ redirect_from:
 ## Education
 
 * **BSc in Computer Science** - Tbilisi State University, 2012   
-  **_Thesis Title:_** A Study of 3D Deformable Parts Models for Detection and Pose-Estimation
   
 * **MSc in Computer Science** - University of Geneva, 2017  
   With specialization in Advanced Information Processing – *summa cum laude*  
