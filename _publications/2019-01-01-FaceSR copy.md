@@ -1,0 +1,11 @@
+---
+title: "Unsupervised Generative 3D Shape Learning from Natural Images"
+collection: publications
+permalink: /publication/2019-01-01-3DGAN
+excerpt: 'A. Szabo, G. Meishvili, and P. Favaro'
+date: 2019-01-01
+venue: 'Arxiv'
+citation: 'A. Szabo, G. Meishvili, and P. Favaro (2018). &quot;Unsupervised Generative 3D Shape Learning from Natural Images.&quot; <i>Arxiv</i>.'
+---
+
+ [[PDF]](https://arxiv.org/pdf/1910.00287.pdf)
